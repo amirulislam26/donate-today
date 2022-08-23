@@ -1,0 +1,136 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.Divetion{
+    background-image: url(images/donation12.png);
+    background-repeat: no-repeat;
+    padding:10px 40px;
+}
+h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+.half-width{
+    text-align: justify;
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    border-radius: 10px;
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+   
+}
+.container{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.containerr{
+    display: flex;
+    text-align: center;
+    margin-left: 150px;
+}
+.bg-Color{
+    text-align: justify;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-color: antiquewhite;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.bgs-Color{
+    color: red;
+    text-align: justify;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-color:gainsboro;
+    font-weight: 700;
+    margin-left: 30px;
+    border: 3px solid red;
+    border-radius: 10px;
+}
+.ancor-item{
+    text-align: center;
+    text-decoration: none;
+}
+.containers{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.food-title{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding-left: 10px;
+}
+.shelter-title{
+    background-color: beige;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding-left: 10px;
+}
+.frame-title{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding-left: 10px;
+}
+.flexble-container{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    background-color:floralwhite;
+}
+.open-item{
+    margin-left: 30px;
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.img-item{
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+
+}
+.img-items{
+    width: 70%;
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.Cover-item :hover{
+color: darkgoldenrod;
+
+}
+.Cover-item:hover{
+    color:springgreen;
+}
+.Cover-items:hover{
+    color: red;
+}
+.footer-container{
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+}
+.footer-item{
+    color: tomato;
+}
